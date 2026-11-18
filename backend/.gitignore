@@ -1,0 +1,9 @@
+node_modules/
+.env
+uploads/avatars/*
+uploads/covers/*
+uploads/references/*
+uploads/reviews/*
+uploads/sketches/*
+!uploads/sketches/demo-sketch-3.svg
+!uploads/**/.gitkeep

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="1000" viewBox="0 0 800 1000"><svg x="-420" y="-300" width="1640" height="1600" viewBox="0 0 800 1000" preserveAspectRatio="xMidYMid slice">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f2e3c6"/><stop offset="1" stop-color="#c97b63"/></linearGradient></defs>
+<rect width="800" height="1000" fill="url(#g)"/>
+<circle cx="253" cy="331" r="137" fill="#3d5a80" opacity="0.75"/>
+<rect x="117" y="589" width="301" height="193" rx="24" fill="#f2e3c6" opacity="0.6"/>
+<path d="M0 791 Q 400 663 800 807 L800 1000 L0 1000Z" fill="#3d5a80" opacity="0.55"/>
+<text x="40" y="960" font-family="sans-serif" font-size="28" fill="#ffffff" opacity="0.8">Art Alley demo #2</text>
+</svg></svg>
